@@ -1,0 +1,27 @@
+{
+	"font": [
+		{
+			"path": "font/SIMSUN.TTC",
+			"alias": "SimSun"
+		},
+		{
+			"path": "font/MSYH.TTC",
+			"alias": "Microsoft Yahei"
+		},
+		{
+			"path": "font/SIMHEI.TTF",
+			"alias": "SimHei"
+		},
+		{
+			"path": "font/SIMFANG.TTF",
+			"alias": "FangSong"
+		},
+		{
+			"path": "font/FZXBSJW.TTF",
+			"alias": "FZXiaoBiaoSong-B05S"
+		}
+	],
+	"css":[
+		"font/css/web.css"
+	]
+}
